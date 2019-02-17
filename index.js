@@ -14,5 +14,6 @@ function johnLennonFacts() {
   "He hated the sound of his own voice"
 ];
 
+const newFacts = [];
 
 }
